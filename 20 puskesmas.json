@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas gamping2"
+      },
+      "geometry": {
+        "coordinates": [
+          110.33779082584431,
+          -7.783090040805547
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Pembantu Nogotirto"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3351613693651,
+          -7.774549659836566
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas pembantu Bener"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35360110879492,
+          -7.776715211991302
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gedong Tengen"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3577322607926,
+          -7.791128932483474
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Tegalrejo"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3615772721098,
+          -7.772519604533898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Mlati 1"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36288282257334,
+          -7.754449778534564
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Ngampilan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.35586892121444,
+          -7.8035532876496205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Mudal"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38003816214416,
+          -7.728884234806458
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sub Puskesmas Mlati 2"
+      },
+      "geometry": {
+        "coordinates": [
+          110.32859642299627,
+          -7.7487019733759155
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gamping 1"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3202935241664,
+          -7.8006678237503735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Pembantu"
+      },
+      "geometry": {
+        "coordinates": [
+          110.45208851702034,
+          -7.624983946752977
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Induk Cangkringan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.45643201431773,
+          -7.664735403332813
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Pakem"
+      },
+      "geometry": {
+        "coordinates": [
+          110.42168419328618,
+          -7.660189844188309
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Turi"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37971154422365,
+          -7.65391420014592
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Pembantu Desa Merdikorejo"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34328689108469,
+          -7.633174230938479
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Piyungan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.44870441712044,
+          -7.828544186198158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Banguntapan 1"
+      },
+      "geometry": {
+        "coordinates": [
+          110.41395955349907,
+          -7.829111181618941
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas kotagede 1"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40046484227304,
+          -7.822152498564492
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Ngemplak 2"
+      },
+      "geometry": {
+        "coordinates": [
+          110.44473988663361,
+          -7.703185610656988
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name": "Puskesmas Godean 2"
+      },
+      "geometry": {
+        "coordinates": [
+          110.30386087455065,
+          -7.7766661729638
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
